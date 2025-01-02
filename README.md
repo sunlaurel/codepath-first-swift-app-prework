@@ -16,15 +16,24 @@ The following functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Here](https://www.youtube.com/watch?v=GA92eKlYio4) is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 
 ## App Brainstorming
 
-## Notes
+### My favorite apps:
 
-Describe any challenges encountered while building the app.
+#### Youtube
+- Videos have bar segments that describe the topic of the video segment
+- Can add favorite videos to folder
+#### Messages
+- Can create groupchat names and photos
+- Can include effects with messages
+#### Spotify
+- Can save songs to playlists
+- Highlights lyrics of songs to track where the singer is
+
+### Potential App Idea:
+An idea that I would like to build is a chores sharing app. It syncs a list of chores between a family household and allows everyone to see what needs to be done around the house. Some features that I'm thinking of having in the app is having a shared chores list and a personal chores list. The shared chores list can have to-do items that are assigned to the entire family or to a specific group of people. For the universal to-do items, multiple people can check it off or assign it to themselves, while for assigned to-do items, only the people that the task is assigned to can check it off, with a notification sent when the item is completed. The tasks can be assigned a certain due date, with a countdown to when the item needs to be done, and when a task is created and assigned, it'll send a notification to the members in the household. There can also be a description for the item.
 
 ## License
 
