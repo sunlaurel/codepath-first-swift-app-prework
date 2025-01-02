@@ -15,8 +15,11 @@ The following functionality is completed:
 - [ ] Tapping the font button changes the font color to a random color
  
 ## Video Walkthrough
-
-[Here](https://www.youtube.com/watch?v=GA92eKlYio4) is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
+ <div>
+    <a href="https://www.loom.com/share/aa6358c52f1b411da5436aee93b25c06">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aa6358c52f1b411da5436aee93b25c06-a006d072ce14612b-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming
 
